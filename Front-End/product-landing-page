@@ -1,0 +1,48 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+<html charset="UTF-8">
+<style>
+
+html{
+
+
+}
+img{
+
+  display:center;
+
+}
+</style>
+<header id="header">
+<img src="//cdn.shopify.com/s/files/1/1987/4041/files/TITLE_Logo_Facebook_150x-1_150x.png?v=1549632314" id="header-img">
+  <nav id="nav-bar">
+    <ul>
+      <a href="#gear"><li class="nav-link">Gear</li></a>
+      <a href="#about"><li class="nav-link">Gear</li></a>
+      <a href="#coaching"><li class="nav-link">Gear</li></a>
+    </ul>
+    </nav>
+  </header>
+<body>
+
+<h2 id="gear"><h1><a id="gear">Gear</a></h1></h2>
+<h2 id="about"></h2>
+<h2 id="coaching"></h2>
+
+  <form id="form">
+    <input
+           name="email"
+           type="email"
+           id="email"
+           placeholder="Enter your Email"
+           required/>
+
+    <input
+         id="submit"
+         type"submit"
+         value="Learn More"/>
+    
+
+  </form>
+ <iframe width="560" frameborder="0" height="315" src="https://www.youtube.com/embed/HaRLJ8MgtRA" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>
